@@ -1,0 +1,246 @@
+body {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.circle {
+     /* width: 300px; */
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    border-radius: 2rem;
+    padding: 30px;
+    animation: grow-shrink 3s ease-in-out 1s infinite;
+
+}
+
+.vision {
+    background-color: #f2f2f2;
+    color: #6E7684;
+    margin: 24px 12px 0px;
+    padding: 50px;
+    border-radius: 1rem;
+}
+
+.red {
+    background-color: red;
+    /* display: flex; */
+    margin: 20px;
+    width: 100px;
+    height: 90px;
+    border-radius: 2rem;
+    padding: 24px;
+}
+
+
+.features-section {
+    background-color: #f2f2f2;
+    padding: 48px 12px;
+}
+
+/* .flex2 { */
+    font-family: 16px sans-serif;
+    justify-content: end;
+    /* display: flex; */
+    /* bottom: 300px; */
+    margin-bottom: 200px;
+    text-align: left;
+    padding-top: 300px;
+}
+
+
+.hero-2 {
+    color: red;
+}
+
+.section-2 {
+    display: flex;
+    justify-content:start;
+    text-align: start;
+    padding: 10px;
+    width: 400px;
+}
+
+.profile {
+     padding: 2rem;
+    position: relative;
+}
+
+.experience-div {
+    display: flex;
+    gap: 0;
+    /* width: 50%; */
+    justify-content: space-between;
+}
+
+.data-section {
+    background-image: url(./fact-bg.jpg);
+}
+
+.button-1 {
+    background-color: red;
+    color: white;
+    border-radius: 1rem;
+    padding: 15px;
+    width: 200px;
+    border: 0;
+}
+
+.background-1 {
+    background-color: red;
+    color: red;
+    width: 100px;
+    height: 10px;
+    /* border: 100px solid red; */
+    height: 50px;
+    /* margin-top: 100px; */
+}
+
+.Watch {
+    background-color: red;
+    border-radius: 2rem;
+    width: 100px;
+    /* display: flex; */
+    text-align: center;
+    top: 0;
+    padding: 0;
+}
+
+.about-2 {
+    /* display: flex; */
+    font-family: sans-serif;
+    margin: 0px;
+    /* top: 500px; */
+}
+
+h1 {
+    /* text-align: center; */
+}
+
+
+.service-1 {
+    background-color: red;
+    width: 80px;
+    height: 100px;
+    border-radius: 2rem;
+}
+
+.service-2 {
+    display: flex;
+    background-color: red;
+    width: 80px;
+    height: 100px;
+    padding-bottom: 10px;
+    /* padding-top: 50px; */
+    border-radius: 2rem;
+}
+
+.Page1 {
+    background-color: red;
+    width: 100px;
+    height: 90px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 2rem;
+    gap: 100px;
+}
+
+.fixed-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem;
+    z-index: 1000;
+    background-color: white;
+}
+
+.Blog {
+    border: 2px solid black;
+    width: 300px;
+    margin: 100px;
+}
+
+.Blog-1 {
+    border: 2px solid black;
+    width: 300px;
+    margin: 100px;
+}
+
+.Blog-2 {
+    border: 2px solid black;
+    width: 300px;
+    margin: 100px;
+}
+
+.Blog-3 {
+    border: 2px solid black;
+    width: 300px;
+    margin: 100px;
+}
+
+.Page-3 {
+    text-align: center;
+}
+
+.Items-1 {
+    background-color: #6E7684;
+    width: 300px;
+    border-radius: 1rem;
+}
+
+.Items-2 {
+    background-color: #6E7684;
+    width: 300px;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 
+}
+
+.Items-3 {
+    background-color: #6E7684;
+    gap: 100px;
+    
+}
+
+.number {
+    background-color: #6E7684;
+    width: 20px;
+    padding: 20px;
+    padding-right: 40px;
+    margin: 20px;
+    border-radius: 50px;
+}
+
+.Rental-1 {
+    background-color: #6E7684;
+    width: 300px;
+    padding-top: 1px;
+    margin: 100px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.date {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 70px;
+    padding-top: 20px;
+    border-radius: 1rem;
+    margin: 10px;
+    bottom: 200px;
+    
+}
+
+.Inner.hover {
+    
+}
+
+    
+
